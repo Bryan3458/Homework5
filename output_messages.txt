@@ -1,0 +1,8 @@
+[35mGUESS THE NUMBER![39m
+[36m_____________________________[39m
+[37mGuess a number between 1 and 10.[39m
+[33mYou have 3 attempts![39m
+[33mToo low![39m
+[33mToo high![39m
+[32mCorrect![39m
+[35mThanks for playing![39m
